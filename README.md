@@ -8,6 +8,6 @@ Para ejecutar este proyceto sigue los siguientes pasos:
 2. Ingresar al archivo DCU_Final.sln, aquí es donde tenemos todo el código.
 3. Abra el archivo de SQL Server donde tenemos los procedimientos para crear la base de datos, tablas y los strores procedures en sql server.
 
-Es pertinente decir que en la clase de coneccion a base de datos llamada 
+-- Es pertinente decir que en la clase de conección a base de datos llamada BaseDeDatos es necesario cambiar el nombre de la instancia de base de datos para que en tu dispositivo puedes acceder a SQL Server.
 
 
