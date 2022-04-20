@@ -1,0 +1,10 @@
+C:\Users\jimke\source\repos\DCU_Final\DCU_Final\bin\Debug\DCU_Final.exe.config
+C:\Users\jimke\source\repos\DCU_Final\DCU_Final\bin\Debug\DCU_Final.exe
+C:\Users\jimke\source\repos\DCU_Final\DCU_Final\bin\Debug\DCU_Final.pdb
+C:\Users\jimke\source\repos\DCU_Final\DCU_Final\obj\Debug\DCU_Final.Form1.resources
+C:\Users\jimke\source\repos\DCU_Final\DCU_Final\obj\Debug\DCU_Final.Properties.Resources.resources
+C:\Users\jimke\source\repos\DCU_Final\DCU_Final\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+C:\Users\jimke\source\repos\DCU_Final\DCU_Final\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\jimke\source\repos\DCU_Final\DCU_Final\obj\Debug\DCU_Final.exe
+C:\Users\jimke\source\repos\DCU_Final\DCU_Final\obj\Debug\DCU_Final.pdb
+C:\Users\jimke\source\repos\DCU_Final\DCU_Final\obj\Debug\Estudiantes.csproj.AssemblyReference.cache
